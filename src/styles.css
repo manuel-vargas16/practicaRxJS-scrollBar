@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+
+.progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 5px;
+  width: 0%;
+  background-color: #9034aa;
+}
